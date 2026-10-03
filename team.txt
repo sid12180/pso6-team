@@ -1,3 +1,7 @@
 Team members: sid12180 and vihitha-k
 Favorite programming language: TBD
+<<<<<<< HEAD
 Team motto: cs193
+=======
+Team motto: add, commit, push
+>>>>>>> upstream/main
